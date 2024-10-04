@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>pdf24</id>
+    <version>11.20.0</version>
+    <authors>test</authors>
+    <owners>test</owners>
+    <description>PDF24 Creator</description>
+    <projectUrl>https://www.pdf24.org</projectUrl>
+    <tags>pdf</tags>
+  </metadata>
+  <files>
+    <file src="https://raw.githubusercontent.com/Altissnono/GNC-chocolatey/main/packages/pdf24.11.20.0.nupkg" target="." />
+  </files>
+</package>
