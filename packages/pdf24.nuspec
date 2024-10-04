@@ -10,6 +10,6 @@
     <tags>pdf</tags>
   </metadata>
   <files>
-    <file src="https://altissnono.github.io/GNC-chocolatey/packages/pdf24.11.20.0.nupkg" target="." />
-  </files>
+  <file src="http://10.0.17.20/package/pdf24.11.20.0.nupkg" target="." />
+</files>
 </package>
