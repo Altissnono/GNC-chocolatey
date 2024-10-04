@@ -1,0 +1,9 @@
+{
+  "packages": [
+    {
+      "id": "pdf24",
+      "version": "11.20.0",
+      "downloadUrl": "https://altissnono.github.io/GNC-chocolatey/packages/pdf24.11.20.0.nupkg"
+    }
+  ]
+}
